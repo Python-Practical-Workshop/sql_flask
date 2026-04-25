@@ -1,5 +1,5 @@
 # Python 工作坊 - SQL & Flask
-[以 Web 瀏覽](https://python-practical-workshop.github.io/crawler/)
+[以 Web 瀏覽](https://python-practical-workshop.github.io/sql_flask/)
 
 
 ## 內容
